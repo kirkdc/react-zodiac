@@ -1,0 +1,36 @@
+.title-container{
+/* position: absolute;
+top: 0;
+width: 100%; */
+
+background-color: #0a111c;
+color: #61DAFB;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 40px 20px 30px 20px;
+}
+
+.header{ 
+font-size: 70px;
+}
+
+.react-logo {
+    max-width: 130px;
+    object-fit: cover;
+    width: 86px;
+    height: 100px;
+    object-position: 50% 100%;
+    margin-bottom: -23px;
+}
+
+.question{
+    font-size: 20px;
+}
+
+.instructions{
+    color:rgb(4, 155, 214);
+    font-size: 16px;
+
+}

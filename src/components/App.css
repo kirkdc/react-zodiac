@@ -1,0 +1,31 @@
+.bg-video {
+    position: absolute;
+    top:0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    overflow: hidden;
+}
+
+
+
+.bg-video-content {
+    height: 100%;
+    width: 100%;
+    margin-top: 17%;
+    object-fit: cover !important;
+}
+
+
+.main-container {
+    position: relative;
+    background: rgba(137, 137, 137, 0); 
+}
+
+.sign-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,20 @@
+
+.ui.card>.image>img, .ui.cards>.card>.image>img {
+    width: 90% !important;
+    padding: 30px;
+    margin: 0 auto;
+
+}
+
+.ui.fluid.card {
+ max-width:500px;
+ margin: 0 auto;
+ margin-top: 30px;
+ background-color: rgba(171, 127, 45, .4)!important;
+}
+
+.ui.card>.content, .ui.cards>.card>.content {
+
+    margin: 0 auto;
+    font-size: 1.5em !important;
+}

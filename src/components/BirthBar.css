@@ -1,0 +1,25 @@
+.birth-container {
+    /* position: absolute !important; */
+    /* width: 50%;
+    top: 100px; */
+    background-color: rgba(0, 0, 0, 0.5)!important;
+    color: rgb(239, 241, 241);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 20px 30px 20px;  
+    border-radius: 50px !important;    
+}
+
+.button-color {
+    margin-top: 20px !important;
+    background-color: rgb(114, 249, 253) !important;
+    ;
+    
+}
+
+
+button{
+    width: 100%;
+}
